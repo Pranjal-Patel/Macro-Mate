@@ -23,6 +23,7 @@ then your key name, for example:
 >
 5. If you wanna pause the script, then use the `$DELAY` keyword followed by the time in seconds, for example:
 >\$DELAY 1
+>
 >\$DELAY 0.1
 
 ### Here's a simple script to open notepad and type something
